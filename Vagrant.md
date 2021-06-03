@@ -1,4 +1,4 @@
-#Vagrant
+# Vagrant
 * Software that you use to manage vms
 * You can run a file that creates a vm on the staffs pc
 * It is a building and management software 
