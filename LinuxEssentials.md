@@ -4,7 +4,7 @@
 - Need to go through the kernel to communicate with the 
 - Kernel is the in-between the shell and the hardware and is charge of the hardware
 - Both CLI(Command line interface) & GUI can communicate with the shell in Linux
-![img_7.png](Img/img_7.png)
+![img_7.png](img_7.png)
   
 ## Linux Distribution
 Linux Distributions are slightly different Linux based OS that are created to specialist in different tasks.
@@ -27,7 +27,7 @@ A system that controls how to store and restore the data on a OS
 ### Ext3 
 ### BTRFS
 ### XFS
-![img_9.png](Img/img_9.png)
+![img_9.png](img_9.png)
 
 # Linux log file locations
 ### System Logs

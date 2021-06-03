@@ -1,10 +1,10 @@
 # Cloud Computing
 - On demands delivery of computing services/resources
 - Instead of owning and maintaining the hardware and staff you can rent cloud services
-![img_4.png](Img/img_4.png)
+![img_4.png](img_4.png)
   
 ## Cloud Services
-![img_5.png](Img/img_5.png)
+![img_5.png](img_5.png)
 ### IaaS
 Infrastructure as a service
 
@@ -23,7 +23,7 @@ Software as a Service
 
 ## Deployment types [Public and private cloud]
 
-![img_6.png](Img/img_6.png)
+![img_6.png](img_6.png)
 ### Public
 Public clouds are the most common type of cloud computing deployment. The cloud resources (like servers and storage) are owned and operated by a third-party cloud service provider and delivered over the Internet. With a public cloud, all hardware, software and other supporting infrastructure are owned and managed by the cloud service provider. Microsoft Azure is an example of a public cloud
    
