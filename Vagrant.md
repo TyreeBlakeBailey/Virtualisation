@@ -5,6 +5,7 @@
 * It is not a VM or a Hypervisor    
 ![img.png](img.png)
   
+![img_11.png](img_11.png)
 ## Commands
 * “Vagrant Init hashicorp/bionic64”(Name of OS) – The initialization of the VM 
 * “Vagrant up” - Will start up the machine and download the OS that you selected if It can not be found locally 
